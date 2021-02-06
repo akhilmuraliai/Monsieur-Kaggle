@@ -13,6 +13,6 @@
 1. **Malaria Cell Images Detection**<br>
    [data](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
    [kaggle](https://www.kaggle.com/akhilmurali/malaria-cell-detection)
-   [github]('./Malaria-Cell-Detection')<br>
+   [github](https://github.com/akhilmuraliai/Monsieur-Kaggle/tree/master/Malaria-Cell-Detection)<br>
    Training Accuracy : 94.4%<br>
    Validation Accuracy : 95.4%
